@@ -1,3 +1,6 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY2ZncyYnA4cDFjMWJwYTRlaTdtZGw4eTRwZTRoNzl1eGpybmo1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NlqHgtqm81qCLddNuP/giphy.gif" alt="HELLO" style="width: 100%;">
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Reyqal/count.svg?"  />
 </div>
@@ -48,8 +51,14 @@
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reyqal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  /><img src="https://streak-stats.demolab.com?user=Reyqal&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reyqal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" alt="languages graph" style="width: 100%; max-width: 600px; margin-bottom: 10px;" />
+  
+  <img src="https://streak-stats.demolab.com?user=Reyqal&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="width: 100%; max-width: 600px;" />
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tfbm7wz7ubh2smcuvknxcbh6ny&width=620)
+
+<div style="text-align: center;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfbm7wz7ubh2smcuvknxcbh6ny&width=620" alt="Recently Played on Spotify" style="max-width: 100%; height: auto;" />
+</div>
+
 <hr>
