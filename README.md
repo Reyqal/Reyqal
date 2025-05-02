@@ -52,13 +52,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Reyqal/Reyqal/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reyqal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 
   <img src="https://streak-stats.demolab.com?user=Reyqal&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfbm7wz7ubh2smcuvknxcbh6ny&width=620" alt="Recently Played on Spotify" style="max-width: 100%; height: auto;" />
 </div>
 
