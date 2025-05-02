@@ -10,8 +10,9 @@
 ###
 
 <div align="center">
-  <img height="80" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+^///^;+I'm+Reyqal!;"  />
+  <img height="80" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+Nice to see you+^///^;+I'm+Reyqal!;"  />
 </div>
+<h4 align="center">🧩Undergraduate student of Information System at Tadulako University</h4>
 
 <hr>
 <h3 align="left">🧠 Skills</h4>
