@@ -61,8 +61,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Reyqal/Reyqal/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfbm7wz7ubh2smcuvknxcbh6ny&width=620" alt="Recently Played on Spotify" style="max-width: 100%; height: auto;" />
-</div>
-
 <hr>
