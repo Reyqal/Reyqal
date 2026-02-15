@@ -2,11 +2,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY2ZncyYnA4cDFjMWJwYTRlaTdtZGw4eTRwZTRoNzl1eGpybmo1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NlqHgtqm81qCLddNuP/giphy.gif" alt="HELLO" width="80%" />
 </p>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Reyqal/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
@@ -49,11 +44,6 @@
 <hr>
 
 <h3 align="left">📊 Random Stats</h4>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reyqal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reyqal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reyqal/Reyqal/output/pacman-contribution-graph-dark.svg">
